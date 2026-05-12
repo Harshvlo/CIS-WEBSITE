@@ -113,7 +113,7 @@ const Footer = () => {
                 <div className="w-10 h-10 rounded-xl bg-primary/5 flex items-center justify-center group-hover:bg-primary/10 transition-colors">
                   <Mail className="w-4 h-4" />
                 </div>
-                <span className="text-sm">hr@codentrixx.com</span>
+                <span className="text-sm">info@codentrixx.in</span>
               </a>
               <a href="tel:+916260677238" className="group flex items-center gap-3 text-muted-foreground hover:text-primary transition-colors">
                 <div className="w-10 h-10 rounded-xl bg-primary/5 flex items-center justify-center group-hover:bg-primary/10 transition-colors">
