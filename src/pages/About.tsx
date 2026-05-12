@@ -191,7 +191,7 @@ const About = () => {
                     Founded in 2025, Codentrixx Innovation Solutions Pvt Ltd began with a clear mission: to power the digital presence of businesses through innovative technology.
                   </p>
                   <p>
-                    With offices in Bhopal and Bangalore, we've built specialized teams — PyVision (Python), Falconz (Development), and Datax (Data) — to deliver comprehensive tech solutions. Under the leadership of CEO Harsh Dwivedi and CTO Aarohi Singh Rajpoot, we're driving digital transformation across India.
+                    With offices in Bhopal and Bangalore, we've built specialized teams —  (Python), Falconz (Development), (Data) — to deliver comprehensive tech solutions. Under the leadership of CEO Harsh Dwivedi , we're driving digital transformation across India.
                   </p>
                   <p>
                     Today, we continue to push the boundaries of what's possible, combining cutting-edge technology with deep expertise to create solutions that drive real business impact.
