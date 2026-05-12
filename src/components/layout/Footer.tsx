@@ -125,7 +125,10 @@ const Footer = () => {
                 <div className="w-10 h-10 rounded-xl bg-primary/5 flex items-center justify-center">
                   <MapPin className="w-4 h-4" />
                 </div>
-                <span className="text-sm">Bhopal & Bangalore, India</span>
+                <span className="text-sm">C-16, 2nd Floor Above Central Bank near
+                 Reliance Trends Indrapuri,
+                  Bhopal, MP India
+                  </span>
               </div>
             </div>
           </div>
